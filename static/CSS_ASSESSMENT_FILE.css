@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  font-family: 'Hubballi', cursive;
+}
+table{
+  margin: auto;
+}
+td{
+  width: 150px;
+  height: 300px;
+  border: 3px solid white;
+}
+
+#one{
+  background-color: #B8B8D1;
+}
+#two{
+  background-color: #5B5F97;
+}
+#three{
+  background-color: #FFC145;
+}
+#four{
+  background-color: #E6F8B2;
+}
+#five{
+  background-color: #FF6B6C;
+}
